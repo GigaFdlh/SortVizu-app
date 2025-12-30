@@ -45,8 +45,6 @@ Who is faster? Run two algorithms side-by-side in a race to see which one perfor
 |:---:|:---:|:---:|:---:|
 | <img src="assets/screenshots/home.jpeg" width="200" /> | <img src="assets/screenshots/sorting.jpeg" width="200" /> | <img src="assets/screenshots/compare.jpeg" width="200" /> | <img src="assets/screenshots/settings.jpeg" width="200" /> |
 
-*(Note: Please upload screenshots to an `assets/screenshots` folder in your repo to display them here)*
-
 ---
 
 ## 🛠️ Tech Stack & Architecture
@@ -118,7 +116,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/GigaFdlh/SortVizu.git](https://github.com/GigaFdlh/SortVizu.git)
+   git clone https://github.com/GigaFdlh/SortVizu.git
    cd sortvizu
     ```
 2. **Install dependencies**
